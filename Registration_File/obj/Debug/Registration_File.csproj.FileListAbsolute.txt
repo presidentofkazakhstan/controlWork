@@ -1,0 +1,7 @@
+C:\Users\ТынышбаевА.CORP\source\repos\Registration_File\Registration_File\bin\Debug\Registration_File.exe.config
+C:\Users\ТынышбаевА.CORP\source\repos\Registration_File\Registration_File\bin\Debug\Registration_File.exe
+C:\Users\ТынышбаевА.CORP\source\repos\Registration_File\Registration_File\bin\Debug\Registration_File.pdb
+C:\Users\ТынышбаевА.CORP\source\repos\Registration_File\Registration_File\obj\Debug\Registration_File.csprojAssemblyReference.cache
+C:\Users\ТынышбаевА.CORP\source\repos\Registration_File\Registration_File\obj\Debug\Registration_File.csproj.CoreCompileInputs.cache
+C:\Users\ТынышбаевА.CORP\source\repos\Registration_File\Registration_File\obj\Debug\Registration_File.exe
+C:\Users\ТынышбаевА.CORP\source\repos\Registration_File\Registration_File\obj\Debug\Registration_File.pdb
